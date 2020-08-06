@@ -1,0 +1,36 @@
+{
+  "Users": [
+    {
+      "Login": "admin",
+      "Password": "admin"
+    },
+    {
+      "Login": "user",
+      "Password": "12345"
+    },
+    {
+      "Login": "Piotr",
+      "Password": "piotr"
+    },
+    {
+      "Login": "user2",
+      "Password": "admin"
+    },
+    {
+      "Login": "kacper",
+      "Password": "kacper"
+    },
+    {
+      "Login": "test",
+      "Password": "test"
+    },
+    {
+      "Login": "piotr1",
+      "Password": "piotr1"
+    },
+    {
+      "Login": "admin2",
+      "Password": "admin2"
+    }
+  ]
+}
